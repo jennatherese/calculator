@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:linear-gradient(to left,#20B2AA,#FFDAB9)
+    
+}
+.calci{
+    width: 500px;
+    padding: 100px;
+    
+    text-align: center; 
+}
+#display{
+    background-color: white;
+    border-radius: 30px;
+    font-size: 20px;
+    font-family: cursive;
+    height: 60px;
+    width: 270px;
+    color: black;
+    text-align: center;
+}
+.btndesign{
+    width: 55px;
+    height: 55px;
+    font-family: cursive;
+    font-size: 20px;
+    border-radius: 30px;
+    margin: 1.5px;
+}
+.oprdesign{
+    width: 55px;
+    height: 55px;
+    font-family: cursive;
+    font-size: 20px;
+    border-radius: 30px;
+    margin: 1.5px;
+
+}
+
+.oprdesign:hover{
+    background-color: 	#008080;
+    color:white ;
+}
+.btndesign:hover{
+    background-color: 	#008080;
+    color:white ;
+
+}
+#zero{
+    width: 116px;
+    height: 55px;
+    font-family: cursive;
+    font-size: 20px;
+    border-radius: 30px;
+    margin: 1.5px;
+
+
+}
